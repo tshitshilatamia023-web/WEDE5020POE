@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update sitemap URL after publishing the site to its final public address.
+Sitemap: https://YOUR-PUBLISHED-DOMAIN.example/sitemap.xml

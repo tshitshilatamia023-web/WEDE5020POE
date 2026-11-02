@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace https://YOUR-PUBLISHED-DOMAIN.example with the final HTTPS site URL before deployment. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN.example/index.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN.example/about.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN.example/products.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN.example/enquiry.html</loc></url>
+  <url><loc>https://YOUR-PUBLISHED-DOMAIN.example/contact.html</loc></url>
+</urlset>
